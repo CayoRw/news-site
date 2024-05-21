@@ -1,0 +1,18 @@
+site_name: Blog do Cayo
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+
+nav:
+  - Home: index.md
+  - Estudos: estudos.md
+  - Xadrez: xadrez.md
+  - Futebol: esportes.md
+  - Artigos:
+      - Artigo 1: artigos/artigo1.md
+      - Artigo 2: artigos/artigo2.md
+      - Artigo 3: artigos/artigo3.md
+
+site_url: https://CayoRw.github.io/blog/
